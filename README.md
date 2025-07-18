@@ -1,7 +1,7 @@
 js-email-list
 ===
 
-## Papar Information
+### Esercizio 
 Descrizione
 
 Attraverso l'apposita API di Boolean
@@ -12,3 +12,8 @@ Bonus
 
 Abbellire con CSS o Bootstrap
 Inserire un bottone che al click faccia il fetch altre 10 mail (sostituendo le altre)
+
+### Cosa ho imparato  
+Oggi ho imparato per la prima volta come fare chiamate AJAX in JavaScript usando la libreria Axios. Ho creato una funzione che invia 10 richieste per ottenere email casuali e le visualizza in una lista HTML.
+
+### COnsegna 18/07/2025
